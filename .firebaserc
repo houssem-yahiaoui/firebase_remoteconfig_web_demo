@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "middle": "awesome-d5da4"
+  },
+  "targets": {
+    "awesome-d5da4": {
+      "hosting": {
+        "remote-config-web-demo": [
+          "awesome-d5da4"
+        ],
+        "awesome-d5da4": [
+          "remote-config-web-demo"
+        ]
+      }
+    }
+  }
+}

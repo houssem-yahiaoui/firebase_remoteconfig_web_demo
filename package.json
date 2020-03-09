@@ -1,0 +1,13 @@
+{
+  "name": "firebase_remoteconfig_web_demo",
+  "version": "0.0.1",
+  "description": "Simple Demostration to the Beta Firebase Remote Config for web",
+  "main": "index.js",
+  "repository": "https://github.com/houssem-yahiaoui/firebase_remoteconfig_web_demo.git",
+  "author": "Houssam Yahiaoui <houssem.yahiaoui.ai@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {}
+}
